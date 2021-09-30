@@ -2,9 +2,9 @@
 [![Build](https://img.shields.io/github/workflow/status/xdev-software/xapi-db-cache-2009/Check%20Build/develop)](https://github.com/xdev-software/xapi-db-cache-2009/actions/workflows/checkBuild.yml?query=branch%3Adevelop)
 [![javadoc](https://javadoc.io/badge2/com.xdev-software/xapi-db-cache-2009/javadoc.svg)](https://javadoc.io/doc/com.xdev-software/xapi-db-cache-2009) 
 
-# SqlEngine Database Adapter Cache 2009
+# SqlEngine Database Adapter Caché 2009
 
-The XDEV Application Framework provides an abstraction over database dialects as part of its SqlEngine. This module is the Database Adapter for Cache 2009 which includes the Cache-specific implementation for database access.
+The XDEV Application Framework provides an abstraction over database dialects as part of its SqlEngine. This module is the Database Adapter for [InterSystems Caché 2009](https://www.intersystems.com/products/cache/) which includes the Caché-specific implementation for database access.
 
 ## IMPORTANT
 *At the time of publishing this code, we couldn't find any compatible JDBC driver as a maven dependency for 'Cache 2009.1'.
