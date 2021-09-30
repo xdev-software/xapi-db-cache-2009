@@ -3,7 +3,7 @@
 
 	<groupId>com.xdev-software</groupId>
 	<artifactId>xapi-db-cache-2009</artifactId>
-	<version>6.0.0-SNAPSHOT</version>
+	<version>6.0.1-SNAPSHOT</version>
 
 	<name>SqlEngine Database Adapter Cache 2009</name>
   	<description>XAPI SqlEngine Database Adapter for Cache 2009</description>
