@@ -30,7 +30,7 @@ import com.xdev.jadoth.sqlengine.exceptions.SQLEngineUniqueConstraintUpdateViola
 /**
  * The Class Cache2009SQLExceptionParser.
  * 
- * @author Thomas Muenz
+ * @author TM
  */
 public class Cache2009SQLExceptionParser implements SQLExceptionParser
 {

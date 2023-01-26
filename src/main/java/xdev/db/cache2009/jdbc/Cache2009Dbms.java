@@ -44,7 +44,7 @@ import com.xdev.jadoth.sqlengine.util.ResultTable;
 /**
  * The Class Cache2009Dbms.
  * 
- * @author Thomas Muenz
+ * @author TM
  */
 public class Cache2009Dbms
 		extends

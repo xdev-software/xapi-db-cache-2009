@@ -21,7 +21,7 @@ import com.xdev.jadoth.sqlengine.dbms.DbmsSyntax;
 
 
 /**
- * @author Thomas Muenz
+ * @author TM
  * 
  */
 public class Cache2009Syntax extends DbmsSyntax.Implementation<Cache2009Dbms>

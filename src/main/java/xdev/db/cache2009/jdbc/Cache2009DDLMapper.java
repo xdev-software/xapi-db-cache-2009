@@ -47,7 +47,7 @@ import xdev.db.cache2009.jdbc.Cache2009Trigger.Language;
 /**
  * The Class Cache2009DDLMapper.
  * 
- * @author Thomas Muenz
+ * @author TM
  */
 @SuppressWarnings("deprecation")
 public class Cache2009DDLMapper extends StandardDDLMapper<Cache2009Dbms>

@@ -24,7 +24,7 @@ import com.xdev.jadoth.sqlengine.internal.SqlxFunctionCOALESCE_dual;
 /**
  * The Class CacheSQL.
  * 
- * @author Thomas Muenz
+ * @author TM
  */
 public class CacheSQL extends SQL
 {

@@ -29,7 +29,7 @@ import com.xdev.jadoth.sqlengine.internal.tables.SqlTrigger;
 /**
  * The Class Cache2009Trigger.
  * 
- * @author Thomas Muenz
+ * @author TM
  */
 public class Cache2009Trigger extends SqlTrigger
 {
